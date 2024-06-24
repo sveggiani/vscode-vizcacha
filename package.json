@@ -2,6 +2,7 @@
   "name": "vscode-vizcacha",
   "displayName": "Vizcacha Theme",
   "description": "A dark Visual Studio Theme inspired on Vesper theme with some personal taste customizations",
+  "publisher": "sveggiani",
   "version": "0.1.0",
   "engines": {
     "vscode": "^1.90.0"
