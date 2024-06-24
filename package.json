@@ -1,0 +1,46 @@
+{
+  "name": "vscode-vizcacha",
+  "displayName": "Vizcacha Theme",
+  "description": "A dark Visual Studio Theme inspired on Vesper theme with some personal taste customizations",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "author": {
+    "name": "Sebastián Veggiani (sveggiani[at]gmail.com)"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "dark",
+    "clean",
+    "focus",
+    "low-color",
+    "vizcacha"
+  ],
+  "icon": "./dist/assets/theme_icon.png",
+  "galleryBanner": {
+    "color": "#1D1D1D",
+    "theme": "dark"
+  },
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "homepage": "https://github.com/sveggiani/vscode-vizcacha/blob/master/README.md",
+  "bugs": {
+    "url": "https://github.com/sveggiani/vscode-vizcacha/issues",
+    "email": "sveggiani@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sveggiani/vscode-vizcacha"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Vizcacha Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Vizcacha Theme-color-theme.json"
+      }
+    ]
+  }
+}
